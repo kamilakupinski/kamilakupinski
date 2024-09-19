@@ -1,12 +1,12 @@
-**bem vindo ao meu perfil**
+**°•⁠✿bem vindo ao meu perfil✿•°**
 
 meu nome é Kamila!
 
-sou aluna do componente curricular de pensamento computacional pela rede esctadual de esducação do paraná
+°•sou aluna do componente curricular de pensamento computacional pela rede estadual de educação do paraná!•°
 
 utilizo em aula a plataforma [alura](https://www.alura.com.br)
 
-### voce pode entrar em contato comigo
+### você pode entrar em contato comigo:
 
 kupinski.kamila@escola.pr.gov.br
 
