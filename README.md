@@ -6,7 +6,7 @@ sou aluna do componente curricular de pensamento computacional pela rede esctadu
 
 utilizo em aula a plataforma [alura](https://www.alura.com.br)
 
-###voce pode entrar em contato comigo
+### voce pode entrar em contato comigo
 
 kupinski.kamila@escola.pr.gov.br
 
