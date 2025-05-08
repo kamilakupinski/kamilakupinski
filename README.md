@@ -2,7 +2,7 @@
 
 meu nome é Kamila!
 
-°•sou aluna do componente curricular de pensamento computacional pela rede estadual de educação do paraná!•°
+°•sou aluna do componente curricular de mat2pela rede estadual de educação do paraná!•°
 
 utilizo em aula a plataforma [alura](https://www.alura.com.br)
 
